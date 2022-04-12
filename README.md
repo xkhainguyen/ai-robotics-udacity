@@ -6,5 +6,5 @@ Learn how to program all the major systems of a robotic car from the leader of G
 
 This course is offered as part of the Georgia Tech Masters in Computer Science. The updated course includes a final project, where you must chase a runaway robot that is trying to escape!
 
-### THIS IS MY REPO FOR THIS COURSE
-Feel free to use it as a reference. Hope to receive your feedback.
+### THIS IS MY REPOSITORY FOR THE COURSE
+I have consulted several sources, especially on the Udacity discussion forum. So, feel free to use it as a reference. Hope to receive your feedback.
