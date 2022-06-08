@@ -1,4 +1,4 @@
-## CS373: Artificial Intelligence for Robotics | Programming a Robotic Car
+## CS373: Artificial Intelligence for Robotics | Programming a Robotic 🤖 Car 🚗
 ### A Udacity Course instructed by Sebastian Thrun
 
 ### Course Description
@@ -23,6 +23,6 @@ Below are some pictures (some are animations) from my programs:
   <img src="L23P4.png" width="350" title="Figure 3">
 </p>
 
-There are detailed comments in each program, please ask if you are not clear.
+There are detailed comments in each program, do not hesitate to ask if you are not clear. Please, give me a ⭐ if you see it useful.
 
 *I have consulted several sources, especially on the Udacity discussion forum. So, feel free to use it as a reference. Hope to receive your feedback.*
