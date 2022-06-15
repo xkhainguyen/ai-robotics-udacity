@@ -319,14 +319,14 @@ def get_heading(hunter_position, target_position):
     distance = max_distance # full speed ahead!
     return turning, distance, OTHER
 
-target = robot(0.0, 10.0, 0.0, 2*pi / 30, 1.5)
-measurement_noise = 0.05*target.distance
-target.set_noise(0.0, 0.0, measurement_noise)
-hunter = robot(-10.0, -10.0, 0.0)
-
 # Run several times
 for i in range(10):
-    print(demo_grading(hunter, target, next_move))
+    target = robot(0.0, 10.0, 0.0, 2*pi / 30, 1.5)
+    measurement_noise = 0.05*target.distance
+    target.set_noise(0.0, 0.0, measurement_noise)
+    hunter = robot(-10.0, -10.0, 0.0)
+
+    print(demo_grading2(hunter, target, next_move))
 
 
 
